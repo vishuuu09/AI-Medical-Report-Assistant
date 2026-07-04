@@ -1,4 +1,4 @@
-# AI Medical Report Assistant
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 06_47_55 PM" src="https://github.com/user-attachments/assets/9ea78c9c-1078-4208-a88a-a27a61895bab" /># AI Medical Report Assistant
 
 ## Overview
 
@@ -7,7 +7,9 @@ An end-to-end AI application that predicts chest diseases from X-Ray images usin
 ---
 
 #Architecture
-![Uploading ChatGPT Image Jul 4, 2026, 06_47_55 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 06_47_55 PM" src="https://github.com/user-attachments/assets/8a641342-085b-49b2-87a6-71b5c1337152" />
+
+
 
 
 
