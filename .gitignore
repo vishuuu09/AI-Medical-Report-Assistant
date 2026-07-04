@@ -1,0 +1,38 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+
+# Uploads
+uploads/
+
+# Generated Reports
+reports/generated/
+
+# SQLite
+*.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

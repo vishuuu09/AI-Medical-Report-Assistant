@@ -1,0 +1,15 @@
+tensorflow==2.16.1
+keras
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+Pillow
+scikit-learn
+streamlit
+google-generativeai
+python-dotenv
+reportlab
+tqdm
+reportlab
