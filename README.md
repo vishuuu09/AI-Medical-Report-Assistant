@@ -6,6 +6,11 @@ An end-to-end AI application that predicts chest diseases from X-Ray images usin
 
 ---
 
+#Architecture
+![Uploading ChatGPT Image Jul 4, 2026, 06_47_55 PM.png…]()
+
+
+
 ## Features
 
 - Chest X-Ray Classification
